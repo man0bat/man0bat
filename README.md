@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @man0bat
+- 👋 Hi, I’m @marianobattaglia
 - 👀 I have been interested in programming since I was younger. In recent years I have dedicated myself to learning in order to become a developer.
 - 🌱 I’m currently learning to use HTML, CSS, JavaScript. I am on my way to become a Full Stack Developer.
 - 💞️ I’m looking to collaborate with the community by sharing my knowledge.
